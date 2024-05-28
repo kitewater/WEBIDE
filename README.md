@@ -1,58 +1,52 @@
 # 룰렛 어벤져스 1차 프로젝트
-> WEB IDE 서비스.
+WEB IDE 서비스.
 
-
+## 정보
+- **백엔드**: Spring Security, Spring Boot, OAuth 2.0, Kakao API
+- **프론트엔드**: React
+- **배포 환경**: Kubernetes (Krampolin 사용)
 
 ## 사용 예제
 
-스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
-
-_더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
-
-## 개발 환경 설정
-
-모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
-
-```sh
-make install
-npm test
-```
-
-## 업데이트 내역
-
-* 0.2.1
-    * 수정: 문서 업데이트 (모듈 코드 동일)
-* 0.2.0
-    * 수정: `setDefaultXYZ()` 메서드 제거
-    * 추가: `init()` 메서드 추가
-* 0.1.1
-    * 버그 수정: `baz()` 메서드 호출 시 부팅되지 않는 현상 (@컨트리뷰터 감사합니다!)
-* 0.1.0
-    * 첫 출시
-    * 수정: `foo()` 메서드 네이밍을 `bar()`로 수정
-* 0.0.1
-    * 작업 진행 중
-
-## 정보
-
-이름 – [@트위터 주소](https://twitter.com/dbader_org) – 이메일주소@example.com
-
-XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## 기여 방법
-
-1. (<https://github.com/yourname/yourproject/fork>)을 포크합니다.
-2. (`git checkout -b feature/fooBar`) 명령어로 새 브랜치를 만드세요.
-3. (`git commit -am 'Add some fooBar'`) 명령어로 커밋하세요.
-4. (`git push origin feature/fooBar`) 명령어로 브랜치에 푸시하세요. 
-5. 풀리퀘스트를 보내주세요.
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/kitewater/back/assets/97283971/71b74cd2-11e1-45f9-8baf-8dafc0bd5a8e" width="300">
+      </p>
+    </td>
+    <td>
+      카카오 로그인 API와 OAuth 2.0을 사용하여 소셜 로그인 서비스 구현
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/kitewater/back/assets/97283971/1883f55d-a4f2-4488-877f-e70ec580da27" width="300">
+      </p>
+    </td>
+    <td>
+      게시판 CRUD 서비스 구현
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/kitewater/back/assets/97283971/2d9e8efc-871f-4b50-8d73-314ad050d5fd" width="300">
+      </p>
+    </td>
+    <td>
+      프론트엔드 소스코드를 웹페이지 상에서 입력하면 해당 코드 화면을 즉시 렌더링해서 보여줌
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/kitewater/back/assets/97283971/f89b4b5a-8e90-44ee-bc94-e69c02b4a562" width="300">
+      </p>
+    </td>
+    <td>
+      웹소켓을 이용한 채팅 서비스 구현
+    </td>
+  </tr>
+</table>
