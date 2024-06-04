@@ -40,7 +40,18 @@ WEB IDE 서비스
 <p align="center">
   <img src="https://github.com/kitewater/back/assets/97283971/f89b4b5a-8e90-44ee-bc94-e69c02b4a562" width="70%">
 </p>
+## 프로젝트 구조
+<p align="center">
+  <img src="https://github.com/kitewater/WEBIDE/assets/97283971/9991df56-1d15-401a-9d6c-ef5d80f8aa36" width="100%">
+</p>  
 
+## 크램폴린을 사용한 배포
+### 크램폴린 배포 프로세스
+<p align="center">
+  <img src="https://github.com/kitewater/WEBIDE/assets/97283971/bea5556b-eeb2-4fec-bb0e-c3e996912762" width="100%">
+</p>  
 
-
-## 사용 기술
+### 크램폴린 구조
+<p align="center">
+  <img src="https://github.com/kitewater/WEBIDE/assets/97283971/820eefbd-ad06-4148-b4f6-bec9ce0b82a8" width="100%">
+</p>
